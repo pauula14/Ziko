@@ -1,15 +1,16 @@
-# Ziko
-App desarrollada en Flutter para un proyecto.
+# two_ziko
 
-# ¿Qués es Ziko?
+A new Flutter project.
 
-Es una aplicación digital que comparte contenidos personalizados de publicaciones de diseño favoreciendo la interacción entre usuarios y creando una comunidad.
+## Getting Started
 
-# ¿Cómo se ha desarrollado?
+This project is a starting point for a Flutter application.
 
-Esta aplicación ha sido desarrollada con Flutter, utilizando Firebase para gestionar los datos de los usuario y que sean persistentes. Pudiendo así generar una red con seguidores, recomendaciones personalizadas y posibilidad de crear carpetas con los artículos tanto públicas como privadas.
-También se pueden marcar como favoritos y poner comentarios.
-En esta aplicación además de usuarios, también hay artículos de revistas online, los cuales se gestionan también con una base de datos en firebase, para poder categorizar y almacenar correctamente cada artículo.
+A few resources to get you started if this is your first Flutter project:
 
-Para poder generar estas recomendaciones de forma lógica, estructuré la base de datos de los artículos de forma que existiesen diferente categorizaciones, como cateforía del artículo, autor, temas... 
-De esta forma se pueden mostrar recomendaciones personalizadas para cada usuario.
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
