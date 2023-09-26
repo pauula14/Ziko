@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754628030606",
+    "project_id": "ziko-app-22b33",
+    "storage_bucket": "ziko-app-22b33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754628030606:android:1fc11a226155427aa859df",
+        "android_client_info": {
+          "package_name": "com.example.two_ziko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754628030606-mbcnpt22calah1rn9m0l17ba6hgflgvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvl9jrbs3ctGqRf12fFC6PlcJMHKYu6mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754628030606-mbcnpt22calah1rn9m0l17ba6hgflgvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
